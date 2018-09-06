@@ -11,4 +11,5 @@
         - 没法具体开放封闭原则，但是绝对不违反开放封闭原则
     - ### 应用场景
         - 购物车（和登录框类似）
-        - vuex和redux中的store asdadas
+        - vuex和redux中的store 
+        - test
