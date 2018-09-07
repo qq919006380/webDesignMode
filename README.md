@@ -12,4 +12,4 @@
     - ### 应用场景
         - 购物车（和登录框类似）
         - vuex和redux中的store 
-        - asdadasd
+        
